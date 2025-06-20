@@ -12,7 +12,8 @@ This project uses YOLO (You Only Look Once) to detect surface defects on wind tu
 - **Classes:**
   - `0`: Crack  
   - `1`: Erosion  
-  - `2`: Lightning Strike  
+  - `2`: Lightning Strike
+  - "note":used only one class "damage" in this project
 
 > 📁 *A small sample (10 images + labels) is included inside the `data/` folder.*  
 > 📥 Full dataset: [⬜ Link to Google Drive / HuggingFace]
