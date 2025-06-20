@@ -47,10 +47,8 @@ This project uses YOLO (You Only Look Once) to detect surface defects on wind tu
 ## 🖼️ Result Samples
 
 <p align="center">
-  <img src="D:\its python\runs\detect\predict23\sample.jpg" width="400">
+  <img src="runs\detect\predict23\sample.jpg" width="400">
 </p>
-
-- Left: **Ground Truth** | Right: **Predictions**
 
 ---
 
