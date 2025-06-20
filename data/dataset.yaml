@@ -1,0 +1,7 @@
+train: D:/dataset/train/images
+val: D:/dataset/val/images
+test: D:/dataset/test/images  # Optional
+
+nc: 1  # Number of classes
+names: ["damage"]  # Replace with the actual class name if needed
+
