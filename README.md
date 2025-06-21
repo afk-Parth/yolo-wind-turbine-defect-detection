@@ -8,7 +8,6 @@ This project uses YOLO (You Only Look Once) to detect surface defects on wind tu
 
 - **Source:** DTU - Drone Inspection Images of Wind Turbines  
 - **Annotations:** Created using [LabelImg](https://github.com/tzutalin/labelImg)  
-- **Format:** YOLO (`.txt` files with class, x_center, y_center, width, height)  
 - **Classes:**
   - `0`: Crack  
   - `1`: Erosion  
@@ -16,7 +15,7 @@ This project uses YOLO (You Only Look Once) to detect surface defects on wind tu
   - "note":used only one class "damage" in this project
 
 > 📁 *A small sample (10 images + labels) is included inside the `data/` folder.*  
-> 📥 Full dataset: [⬜ Link to Google Drive / HuggingFace]
+> 📥 Full dataset: [https://www.kaggle.com/datasets/ajifoster3/yolo-annotated-wind-turbines-586x371]
 
 ---
 
